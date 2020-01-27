@@ -1,3 +1,4 @@
+Scenario: Create Opportunity
 Given Navigate to Salesforce SIT Login page_main
 	When Login to Salesforce SIT Loginpage
 	And User creates an Opportunity
